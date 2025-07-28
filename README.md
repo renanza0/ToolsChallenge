@@ -1,6 +1,3 @@
-Aqui está o conteúdo para o `README.md` em um arquivo `.txt`. Você pode copiar o texto abaixo e salvar em um arquivo `README.txt`:
-
-```plaintext
 # Tools Challenge
 
 ## Descrição
